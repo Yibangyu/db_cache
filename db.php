@@ -3,7 +3,7 @@
  * @Author yibangyu
  * @describe 一个小型数据库的实现
 */
-define('DB_STORE','.');
+define('DB_STORE','data');
 
 define('DB_BUCKET_SIZE', 262144);
 define('DB_KEY_SIZE',128);
